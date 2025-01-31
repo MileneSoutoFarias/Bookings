@@ -16,10 +16,10 @@ Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando 
 ✅Listar comunidades de um quarto  
 ✅Visualizar gráfico com ocupação do hotel nos próximos dias  
 ✅Adicionar um pedido de serviço de quarto a uma reserva  
-✅Visualizar fatura para uma determinada reserva 
+✅Visualizar fatura para uma determinada reserva  
 ✅Listar todas as limpezas  
 ✅Alterar o estado de limpeza  
-✅Ordenar serviços de limpeza por quarto /empregado/ tipo de limpeza/ data 
+✅Ordenar serviços de limpeza por quarto /empregado/ tipo de limpeza/ data  
 ✅Filtrar limpezas por número do quarto 
 
 ## 📸 Demonstraçao do projeto:
