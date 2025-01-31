@@ -1,7 +1,8 @@
 # Bookings
 Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.
  
-## 🚀 Tecnologias Utilizadas : [OutSystems]    
+## 🚀 Tecnologias Utilizadas :    
+OutSystems 
 
 ## 📌 Funcionalidades  
 ✅Adicionar uma reserva  
