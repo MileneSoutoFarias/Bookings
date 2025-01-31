@@ -11,11 +11,11 @@ Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando 
 ✅Filtrar Reserva por apelido ou estado da reserva ou ambos  
 ✅Listar quartos   
 ✅Ordenar quartos por número/ capacidade de adultos/capacidade de crianças/ preço  
-✅Editar atributos de um quarto 
-✅Adicionar / remover comunidades 
-✅Listar comunidades de um quarto 
-✅Visualizar gráfico com ocupação do hotel nos próximos dias 
-✅Adicionar um pedido de serviço de quarto a uma reserva 
+✅Editar atributos de um quarto  
+✅Adicionar / remover comunidades  
+✅Listar comunidades de um quarto  
+✅Visualizar gráfico com ocupação do hotel nos próximos dias  
+✅Adicionar um pedido de serviço de quarto a uma reserva  
 ✅Visualizar fatura para uma determinada reserva 
 ✅Listar todas as limpezas  
 ✅Alterar o estado de limpeza  
