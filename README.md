@@ -25,7 +25,8 @@ OutSystems
 
 ## 📸 Demonstraçao do projeto:
 
-🎥 [Assista à demonstração do projeto](https://drive.google.com/file/d/1ABGQ9Ra-1aSz3H0He4BqnIUZlLrVWlpw/view?usp=drive_link)
+🎥 [Assista à demonstração do projeto]()
+[![Assista ao vídeo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1ABGQ9Ra-1aSz3H0He4BqnIUZlLrVWlpw/view?usp=drive_link)
 
 
 ---  
