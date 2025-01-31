@@ -4,12 +4,12 @@ Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando 
 ## 🚀 Tecnologias Utilizadas : [OutSystems]    
 
 ## 📌 Funcionalidades  
-✅Adicionar uma reserva 
-✅Alterar estado de uma reserva
-✅Listar reservas
-✅Ordenar reservas por nome/ número de quarto/ data de check-in/ data de check-out/ estado
-✅Filtrar Reserva por apelido ou estado da reserva ou ambos
-✅Listar quartos 
+✅Adicionar uma reserva  
+✅Alterar estado de uma reserva 
+✅Listar reservas 
+✅Ordenar reservas por nome/ número de quarto/ data de check-in/ data de check-out/ estado 
+✅Filtrar Reserva por apelido ou estado da reserva ou ambos 
+✅Listar quartos  
 ✅Ordenar quartos por número/ capacidade de adultos/capacidade de crianças/ preço 
 ✅Editar atributos de um quarto
 ✅Adicionar / remover comunidades
