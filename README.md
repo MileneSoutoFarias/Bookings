@@ -5,8 +5,8 @@ Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando 
 
 ## 📌 Funcionalidades  
 ✅Adicionar uma reserva  
-✅Alterar estado de uma reserva 
-✅Listar reservas 
+✅Alterar estado de uma reserva  
+✅Listar reservas  
 ✅Ordenar reservas por nome/ número de quarto/ data de check-in/ data de check-out/ estado 
 ✅Filtrar Reserva por apelido ou estado da reserva ou ambos 
 ✅Listar quartos  
